@@ -534,3 +534,5 @@ Internal use only. Ensure compliance with Angel Broking API terms.
 2. Edit `config.yaml` for your indices and intervals
 3. Run `python main.py download --index NIFTY --expiry current`
 4. Monitor progress with `python main.py summary`
+F u l l   r e v i e w   t r i g g e r  
+ 
